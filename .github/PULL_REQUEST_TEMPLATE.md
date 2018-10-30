@@ -1,5 +1,5 @@
-Please read and understand everything below
-**Do not delete any text other than where you are instructed.**
+<!--- Please read and understand everything below --->
+<!--- **Do not delete any text other than where you are instructed.** --->
 
 <!--- Students: If any one of them is applicable to you. Please check it. -->
 
@@ -9,8 +9,8 @@ Check by changing each `[ ]` to `[x]` Please take note of the whitespace as it m
 - [ ] This Pull request fixes a bug.
 - [ ] This Pull request implements a new feature.
 - [ ] Included a description of change below.
-- [ ] Included a Preview link and screenshot showning after and before the changes.
-- [ ] Squashed the commits (mandatory).
+- [ ] Included screenshots <!--- ( and Preview link, if applicable)  --> showing before and after the changes were made.
+- [ ] Squashed the commits **(mandatory)**.
 
 ## Description / Changes
 <!--- Describe all the changes that you've made in this pull request. -->
