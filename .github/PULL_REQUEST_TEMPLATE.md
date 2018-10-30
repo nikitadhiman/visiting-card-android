@@ -3,22 +3,21 @@
 
 <!--- Students: If any one of them is applicable to you. Please check it. -->
 
-Check by changing each `[ ]` to `[x]` Please take note of the whitespace as it matters.
+Check by changing each `[ ]` to `[x]` Please take note of the white-space as it matters.
 
-- [ ] I have read the **CONTRIBUTING.md** .
-- [ ] This Pull request fixes a bug.
-- [ ] This Pull request implements a new feature.
-- [ ] Included a description of change below.
-- [ ] Included screenshots <!--- ( and Preview link, if applicable)  --> showing before and after the changes were made.
-- [ ] Squashed the commits **(mandatory)**.
+This Pull request 
+    - [ ] Fixes a bug.
+    - [ ] Implements a new feature.
+- [ ] I have read the **[CONTRIBUTING.md](https://github.com/JBossOutreach/visiting-card-android/blob/master/CONTRIBUTING.md)** .
+- [ ] I have included a description of changes below.
+- [ ] I have included screenshots <!--- ( and Preview link, if applicable)  --> showing before and after the changes were made.
+- [ ] I have squashed the commits **(mandatory)**.
 
 ## Description / Changes
 <!--- Describe all the changes that you've made in this pull request. -->
-- Point 1
-- Point 2
-- Fixes`#<Issue no.>`
+- Fixes #<Issue no.>
 - Link to task <!--- Only for GCI Students, it should be in the format [Task](TaskLink) -->
 
 
 ## Screenshots
-<!--- Add screenshots or gif or a link to youtube video demonstrating your changes. -->
+<!--- Add screenshots or GIF or a link to YouTube video demonstrating your changes. -->
